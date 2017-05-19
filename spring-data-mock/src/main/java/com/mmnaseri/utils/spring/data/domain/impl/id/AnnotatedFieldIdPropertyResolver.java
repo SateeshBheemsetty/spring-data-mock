@@ -11,6 +11,8 @@ import java.io.Serializable;
 import java.lang.reflect.Field;
 import java.util.concurrent.atomic.AtomicReference;
 
+
+
 import static com.mmnaseri.utils.spring.data.domain.impl.id.IdPropertyResolverUtils.isAnnotated;
 
 /**
